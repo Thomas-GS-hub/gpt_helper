@@ -10,6 +10,9 @@ export const metadata = {
 
 const RootLayout = ({ children }) => (
     <html lang='en'>
+      <head>
+        <meta name="google-site-verification" content="EopQlvoC6K3SxUD5sWWkYVkdepBVsAjFfqDsViiZsZ0" />
+      </head>
       <body>
         <Provider>
           <div className='main'>
